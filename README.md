@@ -57,9 +57,9 @@ Creating XML and Activity enables to draw on canvas.
   
 ### Undo / Redo / Clear
   
-    this.canvas.undo();   // Undo
-    this.canvas.redo();   // Redo
-    this.canvas.clear();  // Clear canvas
+    this.canvas.undo();   // Undo,
+    this.canvas.redo();   // Redo,
+    this.canvas.clear();  // Clear canvas,
   
 ### Mode
   
